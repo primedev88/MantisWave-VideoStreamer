@@ -15,15 +15,15 @@ const App = () => {
     textDecoration: 'none',
     color: 'white',
     backgroundColor: 'rgb(50, 168, 160)',
-    padding: '10px 15px',
-    margin:'5px 0px',
+    padding: ' 1vh 1vh',
+    margin:'1vh',
     borderRadius: '5px',
     display: 'flex',
     alignItems: 'center',
   };
   
   const iconStyle = {
-    marginRight: '5px',
+    marginRight: '1vh',
     // Add additional styles for the video icon, or replace with an actual SVG/icon component
   };
   

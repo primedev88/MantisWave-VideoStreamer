@@ -8,8 +8,8 @@
     align-items: center;
 }
 .container .image{
-    height: 25vh;
-    width: 20vw;
+    height: 70vh;
+    width: 50vw;
     background-size: cover;
     background-position: center;
     background: url(../assets/MW-D-removebg.png);
